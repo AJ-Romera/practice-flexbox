@@ -1,0 +1,23 @@
+.container {
+    border: 5px solid #ffcc5c;
+}
+  
+.container div {
+    margin: 10px;
+    text-align: center;
+    font-size: 2em;
+    color: white;
+    text-shadow: 2px 2px 3px black;
+}
+  
+.item1 {
+    background-color: orange;
+}
+  
+.item2 {
+    background-color: blue;
+}
+  
+.item3 {
+    background-color: yellow;
+}
