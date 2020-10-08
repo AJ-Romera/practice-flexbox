@@ -24,13 +24,45 @@
   
 .item1 {
     background-color: orange;
-    order: 1;
+    order: 2;
 }
   
 .item2 {
     background-color: blue;
+    order: 1;
 }
   
 .item3 {
     background-color: yellow;
+    order: 3;
+}
+
+.item4 {
+    background-color: red;
+    order: 4;
+}
+
+.item5 {
+    background-color: #5ED3F3;
+    order: 4;
+}
+
+.item6 {
+    background-color: #3FB27F;
+    order: 4;
+}
+
+.item7 {
+    background-color: #7377AD;
+    order: 4;
+}
+
+.item8 {
+    background: linear-gradient(90deg, rgba(53,113,163,1) 30%, rgba(247,202,62,1) 100%);
+    order: 4;
+}
+
+.item9 {
+    background: linear-gradient(90deg, #5ED3F3 30%, whitesmoke 75%);
+    order: 4;
 }
